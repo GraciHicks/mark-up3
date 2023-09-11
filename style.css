@@ -1,0 +1,25 @@
+/*style sheet*/
+body{background-color:rgb(253, 253, 203);}
+
+/*list items*/
+ul{list-style-type:none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    Color:rgb(139, 17, 17);}
+
+/*paragraphs*/
+p{line-height: 0.75em ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(139, 17, 17);}
+
+/*headings*/
+h1{font-family:garamond;
+    font-size: 250%;
+    color:rgb(218, 63, 6);}
+
+h2{font-family: garamond;
+    font-size: 160%;
+    color:rgb(218, 63, 6);}
+
+h3{font-family: garamond;
+    font-size:140%;
+    color:rgb(192, 121, 0)}
